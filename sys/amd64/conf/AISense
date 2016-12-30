@@ -3,7 +3,7 @@ include		GENERIC
 nooptions	KDB_TRACE
 options		DDB		# Support DDB.
 
-ident		pfSense
+ident		AISense
 
 nooptions	MAC		# TrustedBSD MAC Framework
 nooptions	COMPAT_FREEBSD4	# Compatible with FreeBSD4
