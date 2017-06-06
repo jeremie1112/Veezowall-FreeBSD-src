@@ -39,9 +39,9 @@
 	s"                               " logo+
 	s"                 ______        " logo+
 	s"                /      \       " logo+
-	s"          _____/    f   \      " logo+
+	s"          _____/    I   \      " logo+
 	s"         /     \        /      " logo+
-	s"        /   p   \______/  Sense" logo+
+	s"        /   A   \______/  Sense" logo+
 	s"        \       /      \       " logo+
 	s"         \_____/        \      " logo+
 	s"               \        /      " logo+
