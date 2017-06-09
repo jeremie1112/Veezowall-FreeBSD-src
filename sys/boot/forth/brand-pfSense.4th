@@ -34,7 +34,5 @@
 
 : brand ( x y -- ) \ "pfSense" [wide] logo in B/W (7 rows x 42 columns)
 
-
-
 	2drop
 ;
