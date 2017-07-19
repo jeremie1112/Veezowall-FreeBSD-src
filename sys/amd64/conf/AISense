@@ -89,7 +89,7 @@ device		uhid		# "Human Interface Devices"
 device		firewire	# FireWire bus code
 device		sbp		# SCSI over FireWire (Requires scbus and da)
 
-# pfsense addons
+# aisense addons
 
 device		tap
 device		gre
