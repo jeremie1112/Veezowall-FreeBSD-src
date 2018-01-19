@@ -647,7 +647,7 @@ os_dos:
 #endif
 os_win:		.ascii "Wi";   .byte 'n'|0x80
 os_linux:	.ascii "Linu"; .byte 'x'|0x80
-os_freebsd:	.ascii "pfSe"
+os_freebsd:	.ascii "AISe"
 os_bsd:		.ascii "ns";   .byte 'e'|0x80
 #ifndef SAVE_MORE_MEMORY
 os_ext:		.ascii "EX";   .byte 'T'|0x80
